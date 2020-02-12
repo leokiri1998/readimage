@@ -1,0 +1,18 @@
+﻿  ReadImageDlg.cpp
+d:\codenew\_csh\readimage\include\tesseract\strngs.h(61): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          E:\__SETUP\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(188) : see declaration of 'strncpy'
+d:\codenew\_csh\readimage\include\tesseract\unicharset.h(274): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          E:\__SETUP\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+d:\codenew\_csh\readimage\include\tesseract\unicharset.h(299): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          E:\__SETUP\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+d:\codenew\_csh\readimage\include\leptonica\environ.h(277): warning C4005: 'snprintf' : macro redefinition
+          d:\codenew\_csh\readimage\include\tesseract\platform.h(33) : see previous definition of 'snprintf'
+d:\codenew\_csh\readimage\include\leptonica\pix.h(169): warning C4305: 'initializing' : truncation from 'double' to 'const l_float32'
+d:\codenew\_csh\readimage\include\leptonica\pix.h(171): warning C4305: 'initializing' : truncation from 'double' to 'const l_float32'
+ReadImageDlg.cpp(324): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          E:\__SETUP\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : see declaration of 'wcscpy'
+ReadImageDlg.cpp(485): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          E:\__SETUP\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+  Generating code
+  Finished generating code
+  ReadImage.vcxproj -> D:\CODENEW\_CSH\ReadImage\Release\ReadImage.exe
